@@ -1,1 +1,5 @@
+Activity Log
 
+5/6/20
+--------
+- Authentication using Email and Password is now online (registration, sign in, sign out)
