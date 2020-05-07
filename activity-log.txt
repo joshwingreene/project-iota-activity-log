@@ -3,6 +3,7 @@ Activity Log
 5/7/20
 --------
 - UI dev task that pertains to the authentication screens
+- Added loading functionality to authentication screens
 
 5/6/20
 --------
