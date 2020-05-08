@@ -4,6 +4,7 @@ Activity Log
 --------
 - UI dev task that pertains to the authentication screens
 - Added loading functionality to authentication screens
+- Firebase database task
 
 5/6/20
 --------
