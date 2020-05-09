@@ -1,5 +1,9 @@
 Activity Log
 
+5/8/20
+--------
+- User's name is now being shown on the settings screen
+
 5/7/20
 --------
 - UI dev task that pertains to the authentication screens
