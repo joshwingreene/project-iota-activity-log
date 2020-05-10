@@ -3,6 +3,7 @@ Activity Log
 5/9/20
 --------
 - Set up the basics for the search screen. Populating the search screen with some test data that I posted to the backend from the frontend
+- UI development task that pertains to the search screen
 
 5/8/20
 --------
