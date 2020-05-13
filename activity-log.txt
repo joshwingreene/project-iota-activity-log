@@ -1,5 +1,8 @@
 Activity Log
 
+5/12/20
+- Got up-to-speed on approaches on how to implement bottom tab navigation in Flutter apps, like the one outlined in Getting to the Bottom of Navigation in Flutter ([https://medium.com/flutter/getting-to-the-bottom-of-navigation-in-flutter-b3e440b9386)
+
 5/11/20
 --------
 - UI development task that pertains to the search screen
