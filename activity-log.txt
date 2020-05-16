@@ -1,5 +1,10 @@
 Activity Log
 
+5/15/20
+---------
+- Corrected a UI Styling Issue
+- Did some research that pertained to the backend
+
 5/14/20
 ---------
 - Component Styling Task
