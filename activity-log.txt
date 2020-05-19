@@ -1,5 +1,10 @@
 Activity Log
 
+5/18/20
+---------
+- Chose a syncing strategy
+- Implemented the majority of my chosen syncing strategy
+
 5/15/20
 ---------
 - Corrected a UI Styling Issue
