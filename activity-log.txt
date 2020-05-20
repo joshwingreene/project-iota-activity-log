@@ -1,5 +1,11 @@
 Activity Log
 
+5/19/20
+---------
+- Implemented a straggling task that was related to the syncing work from yesterday
+- Work related to making sure that certain things weren't being executed more than they needed to be
+- Some research work
+
 5/18/20
 ---------
 - Chose a syncing strategy
