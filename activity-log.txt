@@ -1,5 +1,13 @@
 Activity Log
 
+5/23/20
+---------
+- Implemented some core functionality (for the screen that was developed on 5/22/20)
+
+5/22/20
+---------
+- UI Development Work
+
 5/19/20
 ---------
 - Implemented a straggling task that was related to the syncing work from yesterday
