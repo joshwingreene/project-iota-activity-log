@@ -1,5 +1,9 @@
 Activity Log
 
+5/26/20
+---------
+- UI Development & Core Functionality Work
+
 5/23/20
 ---------
 - Implemented some core functionality (for the screen that was developed on 5/22/20)
