@@ -1,5 +1,10 @@
 Activity Log
 
+5/27/20
+---------
+- Some refactoring work
+- Work related to pushing some data to the backend
+
 5/26/20
 ---------
 - UI Development & Core Functionality Work
